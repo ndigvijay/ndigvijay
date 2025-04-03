@@ -4,12 +4,43 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ndv--portfolio-blue?style=for-the-badge&logo=vercel)](https://ndv-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-digvijayn1993%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:digvijayn1993@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ndigvijay-black?style=for-the-badge&logo=github)](https://github.com/ndigvijay)
 
 ## 🚀 What I'm up to
 
 - 🔭 Currently working on [malware classification](https://github.com/ndigvijay/Capstone_98_2025)
 - 🌱 Learning **Spring Boot** and **Spring Security**
 - 💬 Ask me about **React, Node.js, Deployment, Backend**
+
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ndigvijay/Capstone_98_2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ndigvijay/e-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=e-commerce&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ndigvijay/deepfake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=deepfake&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ndigvijay/Encryption">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Encryption&theme=tokyonight" />
+  </a>
+</p>
+
+### 📂 Project Highlights
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [TerminalTalk](https://github.com/ndigvijay/TerminalTalk) | Lightweight chat application using terminal interface with real-time messaging using TCP connections | Python, Socket Programming |
+| [car-rental](https://github.com/ndigvijay/car-rental) | Car rental application with booking management and user authentication | JavaScript, React, Node.js |
+| [Encryption](https://github.com/ndigvijay/Encryption) | Text and image encryption tools for secure data transmission | JavaScript, Cryptography |
+| [pesu-auth](https://github.com/ndigvijay/pesu-auth) | Simple API to authenticate PESU credentials using PESU Academy | API Development |
+| [spring-cors-demo](https://github.com/ndigvijay/spring-cors-demo) | Demonstration of CORS handling in Spring applications | Java, Spring Boot |
 
 ## 💻 Tech Stack
 
@@ -64,6 +95,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndigvijay&theme=tokyonight" alt="ndigvijay's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndigvijay&layout=compact&theme=tokyonight" alt="ndigvijay's languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndigvijay&theme=tokyonight" alt="ndigvijay's contribution graph" />
 </p>
 
 ## 🤝 Connect with Me
