@@ -18,8 +18,8 @@
   <a href="https://github.com/ndigvijay/Capstone_98_2025">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ndigvijay/e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=e-commerce&theme=tokyonight" />
+  <a href="https://github.com/ndigvijay/Restaurant-Ordering-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Restaurant-Ordering-System&theme=tokyonight" />
   </a>
 </p>
 
@@ -27,8 +27,8 @@
   <a href="https://github.com/ndigvijay/deepfake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=deepfake&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ndigvijay/Encryption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Encryption&theme=tokyonight" />
+  <a href="https://github.com/ndigvijay/mflix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=mflix&theme=tokyonight" />
   </a>
 </p>
 
@@ -36,11 +36,11 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [TerminalTalk](https://github.com/ndigvijay/TerminalTalk) | Lightweight chat application using terminal interface with real-time messaging using TCP connections | Python, Socket Programming |
+| [Restaurant-Ordering-System](https://github.com/ndigvijay/Restaurant-Ordering-System) | A Java-based solution for restaurant management and order processing | Java, OOP |
+| [mflix](https://github.com/ndigvijay/mflix) | Movie database application with search and filter capabilities | JavaScript, Node.js, MongoDB |
+| [Converters](https://github.com/ndigvijay/Converters) | Currency, Time and Temperature Converters | C, System Programming |
 | [car-rental](https://github.com/ndigvijay/car-rental) | Car rental application with booking management and user authentication | JavaScript, React, Node.js |
-| [Encryption](https://github.com/ndigvijay/Encryption) | Text and image encryption tools for secure data transmission | JavaScript, Cryptography |
 | [pesu-auth](https://github.com/ndigvijay/pesu-auth) | Simple API to authenticate PESU credentials using PESU Academy | API Development |
-| [spring-cors-demo](https://github.com/ndigvijay/spring-cors-demo) | Demonstration of CORS handling in Spring applications | Java, Spring Boot |
 
 ## 💻 Tech Stack
 
