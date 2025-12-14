@@ -29,12 +29,12 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=discord-bot&theme=dark">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-Discord-Authentication-Bot&theme=dark&no_cache=0&cache_seconds=0">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark&no_cache=1&cache_seconds=0">
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=OutFLo-Fullstack&theme=dark">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark&no_cache=1&cache_seconds=0">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Connectly-FullStack&theme=dark&no_cache=1&cache_seconds=1">
   </tr>
 </table>
 
