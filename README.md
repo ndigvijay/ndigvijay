@@ -13,16 +13,16 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 
 
 ## Working daily with these Technologies: 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&?logo=express&logoColor=fff) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&?logo=express&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FAST API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)            
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
-![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
 
 
 ## Projects I am Proud of doing
