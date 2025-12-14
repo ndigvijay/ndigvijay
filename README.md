@@ -30,12 +30,12 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=discord-bot">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=discord-bot&theme=dark">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark">
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=OutFLo-Fullstack">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark">
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=OutFLo-Fullstack&theme=dark">
   </tr>
 </table>
 
