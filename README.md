@@ -20,21 +20,21 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)            
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
-![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
+![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=006400)
 
 
 ## Projects I am Proud of doing
 
-<table>
+<table style="border: 0; border-collapse: collapse;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-Discord-Authentication-Bot&theme=dark&no_cache=0&cache_seconds=0">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark&no_cache=1&cache_seconds=0">
+    <td style="border: 0;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-Discord-Authentication-Bot&theme=dark&no_cache=0&cache_seconds=0">
+    <td style="border: 0;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark&no_cache=1&cache_seconds=0">
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark&no_cache=1&cache_seconds=0">
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Connectly-FullStack&theme=dark&no_cache=1&cache_seconds=1">
+    <td style="border: 0;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark&no_cache=1&cache_seconds=0">
+    <td style="border: 0;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Connectly-FullStack&theme=dark&no_cache=1&cache_seconds=1">
   </tr>
 </table>
 
