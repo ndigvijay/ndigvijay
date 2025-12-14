@@ -27,7 +27,6 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 
 ## Projects I am Proud of doing
 
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=discord-bot&theme=dark">
