@@ -23,23 +23,3 @@ I am an active open-source Maintainer and contributer at the [PESU Developer Gro
 ![TS](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=006400)
-
-
-## Projects I am Proud of doing
-
-<table style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td style="border: 0;"><a href="https://github.com/ndigvijay/PESU-Discord-Authentication-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-Discord-Authentication-Bot&theme=dark&no_cache=0&cache_seconds=0">
-    <td style="border: 0;"><a href="https://github.com/ndigvijay/PESU-MAX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=PESU-MAX&theme=dark&no_cache=1&cache_seconds=0">
-  </tr>
-  <tr>
-    <td style="border: 0;"><a href="https://github.com/ndigvijay/Capstone_98_2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Capstone_98_2025&theme=dark&no_cache=1&cache_seconds=0">
-    <td style="border: 0;"><a href="https://github.com/ndigvijay/Connectly-FullStack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ndigvijay&repo=Connectly-FullStack&theme=dark&no_cache=1&cache_seconds=1">
-  </tr>
-</table>
-
-
-
-
-
-
